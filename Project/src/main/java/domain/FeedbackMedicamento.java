@@ -19,7 +19,7 @@ public class FeedbackMedicamento {
         return receita;
     }
 
-    public Date getDataFeedback() {
+    public Date  getDataFeedback() {
         return dataFeedback;
     }
 

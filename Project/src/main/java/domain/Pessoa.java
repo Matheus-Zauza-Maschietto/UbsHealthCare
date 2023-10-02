@@ -11,6 +11,7 @@ public class Pessoa {
     public String getNome() { return nome; }
     public String getNumero() { return numero; }
     public String getGenero() { return genero; }
+    public Date getDataNascimento() { return dataNascimento; }
 
     public Pessoa(String nome, Date dataNascimento, String genero, String numero) {
         this.nome = nome;

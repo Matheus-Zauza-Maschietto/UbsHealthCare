@@ -9,6 +9,8 @@ public class HistoricoUso {
     private String estadoUso;
     private LocalDateTime horaUso;
 
+
+
     public HistoricoUso(CalendarioConsumo calendarioDeConsumo, Date dataUso, String estadoUso, LocalDateTime horaUso) {
         this.calendarioDeConsumo = calendarioDeConsumo;
         this.dataUso = dataUso;

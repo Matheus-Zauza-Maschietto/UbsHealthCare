@@ -21,7 +21,6 @@ public class Receita {
         return feedback;
     }
 
-
     public Paciente getPaciente() {
         return paciente;
     }
